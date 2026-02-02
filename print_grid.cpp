@@ -4,7 +4,7 @@
 int main()
 {
     // Your Fleet
-    std::println(std::cout, "Your Fleet");
+    std::println("Your Fleet");
 
     std::cout << "0 ";
     for (int i = 1; i <= 10; ++i)
@@ -22,7 +22,7 @@ int main()
     std::cout << '\n';
 
     // Enemy Waters
-    std::println(std::cout, "Enemy Waters");
+    std::println("Enemy Waters");
 
     std::cout << "0 ";
     for (int i = 1; i <= 10; ++i)
