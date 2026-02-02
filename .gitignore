@@ -5,10 +5,13 @@
 *.o
 *.obj
 
-# Debug / build output
+# Debug symbols
+*.pdb
+
+# Build artifacts
 *.out
 
-# VS Code (optional)
+# VS Code
 .vscode/
 
 # OS junk
